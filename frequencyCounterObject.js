@@ -23,6 +23,7 @@ function same(arr1,arr2){
         }
      }
      console.log(true)
+     
      return true
 }
 
